@@ -1,0 +1,5 @@
+this project need use below jars
+selenium : 3.149.59
+TestNG : 7.4
+Java : 11
+Extent Report : 7.X
